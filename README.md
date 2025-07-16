@@ -28,7 +28,7 @@ TCK ve uluslararası yasalar kapsamında suçtur ve cezai yaptırımlara neden o
 Geliştirici, bu aracın kötüye kullanımından sorumlu tutulamaz.
 Tüm sorumluluk kullanıcıya aittir.
 ---
-
+![AIT Screenshot](https://private-user-images.githubusercontent.com/220972745/467236123-9f6ebece-f797-498c-a524-5c1c5abfadba.jpg)
 ## ⚙️ Kurulum
 
 ```bash
